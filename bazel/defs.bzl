@@ -1,0 +1,6 @@
+COPTS = [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-std=c++23",
+]
